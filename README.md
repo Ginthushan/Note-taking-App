@@ -1,4 +1,4 @@
-# CSCI4100 Group Project
+# Note Taking App
 
 Contributors:
 
