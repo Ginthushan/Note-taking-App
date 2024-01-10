@@ -14,7 +14,7 @@ Contributors:
 ## Overview
 Our goal of this project is to design a mobile device app that is specifically for Ontario Tech students to use. Students can use their student ID to login into this app, and it will bring out all the course information that the students are currently enrolled in. And inside the app, students can create study notes, exam notes or personal notes for each of their courses. Therefore we want to design a utility application that is specially designed for Ontario Tech students, since we know what students actually want to have and use in this kind of mobile device app.
 
-User's guide
+## User's guide
 ● Step 1: First when user opens the application, it will shows user the Login page
 
 
@@ -34,7 +34,12 @@ ID and password matches with what we have in our database, then
 the login is successful and will bring the user to the course page
 which shows all the courses that the user input when they register. If
 login failed, it means that one of the 2 following situations happened:
-1) The user’s ID or password is incorrect or 2) User did not register
+
+
+1) The user’s ID or password is incorrect or 
+
+
+2) User did not register
 an account with this ID, and the user will need to go back to step 2
 and create an account.
 
